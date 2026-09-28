@@ -1,10 +1,8 @@
 # GEO2102 - Group 7 - Hostel Assignment
-
 ## Group Number
 Group 7
-
 ## Group Members
-- Kawenja Robert — 25/1/324/D/707
+- Kawenja Robert — 25/1/324/D/1707
 - Kibirango Anthony Ian — 25/1/324/D/999
 - Kisitu Ali — 26/1/324/D/0234
 - Ssemanda Emma Kwagala — 25/1/324/D/2084
@@ -12,7 +10,7 @@ Group 7
 - Igune Albert — 25/1/324/D/1585
 - Okumu Travis Kazaa — 25/1/324/D/1924
 - Asasiira Owen — 26/1/324/D/1538
-- Musasasizi Abraham — 25/1/324/D/2196
+- Musasizi Abraham — 25/1/324/D/2196
 - Bulyaba Sauya — 24/1/324/DJ/882
 - Sseninde Patrick — 25/1/324/D/2502
 - Kaweesi Shafik Khalid — 25/1/324/D/052
