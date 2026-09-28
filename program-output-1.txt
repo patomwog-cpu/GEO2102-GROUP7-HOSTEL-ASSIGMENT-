@@ -1,0 +1,52 @@
+==================================================
+        GEO 2102 - GROUP 7 HOSTEL REPORT
+==================================================
+
+--------------------------------------------------
+Hostel ID: H28
+Hostel Name: Ndagire Hostel
+Accommodation Type: Not self-contained (Single)
+Rental Price: UGX 650,000
+Occupancy Status: Occupied
+Latitude: 0.59956051
+Longitude: 32.474724
+Occupancy Result: Fully Occupied
+
+--------------------------------------------------
+Hostel ID: H29
+Hostel Name: Lisan Hostel
+Accommodation Type: Self-contained (Single)
+Rental Price: UGX 500,000
+Occupancy Status: Occupied
+Latitude: 0.59909215
+Longitude: 32.474489
+Occupancy Result: Fully Occupied
+
+--------------------------------------------------
+Hostel ID: H30
+Hostel Name: Moze Hostel (Twins Guest House)
+Accommodation Type: Self-contained (Double)
+Rental Price: UGX 1,000,000
+Occupancy Status: Occupied
+Latitude: 0.59838342
+Longitude: 32.475535
+Occupancy Result: Fully Occupied
+
+--------------------------------------------------
+Hostel ID: H31
+Hostel Name: Peaches
+Accommodation Type: Half self-contained (Single)
+Rental Price: UGX 800,000
+Occupancy Status: Partially Occupied
+Latitude: 0.59806894
+Longitude: 32.476105
+Occupancy Result: Not Fully Occupied
+
+==================================================
+                SUMMARY
+==================================================
+Average Rental Price: UGX 737,500
+Fully Occupied Hostels: 3
+Not Fully Occupied Hostels: 1
+Total Hostels Processed: 4
+==================================================
